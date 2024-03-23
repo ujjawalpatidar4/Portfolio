@@ -153,9 +153,8 @@ nav ul li a:hover {
 
 .project-card img {
     width: 100%;
-    height: auto;
-    /* Changed height to auto for responsive images */
-    max-height: 200px;
+    height: 200px;
+
     object-fit: cover;
     border: 2px solid black;
 }
